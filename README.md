@@ -8,3 +8,7 @@ Based on their KEGG identifiers 1475 different chemical structures of human meta
 ./make_Tanimoto_table.sh  
 Now, besides other temprorary files, Tanimoto_table.csv should be generated with Tanimoto scores for all human metabolite and drug pairs.  
 Now use R code skript.R to apply 0.9 Tanimoto score limit.  
+./visai_lentelei_DB_target.sh  
+./visai_lentelei_target.sh  
+./visai_lentelei_target_kur_sutampa.sh
+This one should print final results.
